@@ -44,13 +44,13 @@ describe("CategoryTemplate", () => {
       "Typography - Page 2 - Blog by Ahmad Abdullah Tariq",
     );
     expect(testUtils.getMeta("twitter:description")).toEqual(
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+      "SOFTWARE ENGINEER",
     );
     expect(testUtils.getMeta("description")).toEqual(
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+      "SOFTWARE ENGINEER",
     );
     expect(testUtils.getMeta("og:description")).toEqual(
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+      "SOFTWARE ENGINEER",
     );
   });
 });

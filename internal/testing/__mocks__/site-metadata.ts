@@ -7,7 +7,7 @@ export default {
       url: "https://www.lumen.local",
       title: "Blog by Ahmad Abdullah Tariq",
       subtitle:
-        "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+        "SOFTWARE ENGINEER",
       copyright: "All rights reserved.",
       postsPerPage: 4,
       author,

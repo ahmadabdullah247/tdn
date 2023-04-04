@@ -1,7 +1,7 @@
 {
   "title": "Blog by Ahmad Abdullah Tariq",
   "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "subtitle": "SOFTWARE ENGINEER",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
   "disqusShortname": "",
@@ -24,24 +24,13 @@
   "author": {
     "name": "Ahmad Abdullah Tariq",
     "photo": "/photo.jpeg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "bio": "SOFTWARE ENGINEER",
     "contacts": {
       "rss": "",
       "email": "",
       "github": "#",
-      "facebook": "#",
-      "telegram": "#",
       "twitter": "#",
-      "linkedin": "#",
-      "instagram": "#",
-      "mastodon": "#",
-      "line": "",
-      "weibo": "",
-      "gitlab": "",
-      "medium": "",
-      "youtube": "",
-      "codepen": "",
-      "soundcloud": ""
+      "linkedin": "#"
     }
   }
 }
