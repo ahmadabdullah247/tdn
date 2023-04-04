@@ -4,7 +4,7 @@ import config from "./content/config.json";
 import * as types from "./internal/gatsby/types";
 
 export default {
-  pathPrefix: config.pathPrefix,
+  // pathPrefix: config.pathPrefix,
   siteMetadata: {
     url: config.url,
     menu: config.menu,
