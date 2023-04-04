@@ -15,10 +15,6 @@
     {
       "label": "About me",
       "path": "/pages/about"
-    },
-    {
-      "label": "Contact me",
-      "path": "/pages/contacts"
     }
   ],
   "author": {
@@ -28,9 +24,9 @@
     "contacts": {
       "rss": "",
       "email": "",
-      "github": "#",
-      "twitter": "#",
-      "linkedin": "#"
+      "github": "ahmadabdullah247",
+      "twitter": "thedatanoob",
+      "linkedin": "ahmadabdullah247"
     }
   }
 }

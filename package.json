@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/alxshelepenok/gatsby-starter-lumen.git"
+    "url": "https://github.com/ahmadabdullah247/tdn"
   },
   "license": "MIT",
-  "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
+  "author": "Alexander Shelepenok",
   "scripts": {
     "deploy":"gatsby build --prefix-paths && gh-pages -d public",
     "build": "npm run clean && gatsby build",

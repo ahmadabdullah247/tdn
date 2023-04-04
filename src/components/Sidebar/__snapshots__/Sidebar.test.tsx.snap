@@ -36,13 +36,6 @@ exports[`Sidebar renders correctly 1`] = `
             About Me
           </a>
         </li>
-        <li>
-          <a
-            href="/pages/contacts"
-          >
-            Contact Me
-          </a>
-        </li>
       </ul>
     </nav>
     <div>
