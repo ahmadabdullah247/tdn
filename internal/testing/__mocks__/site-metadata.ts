@@ -4,7 +4,7 @@ import menu from "./menu";
 export default {
   site: {
     siteMetadata: {
-      url: "https://www.lumen.local",
+      url: "https://thedatanoob.com",
       title: "Blog by Ahmad Abdullah Tariq",
       subtitle:
         "SOFTWARE ENGINEER",

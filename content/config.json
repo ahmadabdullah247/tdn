@@ -19,7 +19,7 @@
   ],
   "author": {
     "name": "Ahmad Abdullah Tariq",
-    "photo": "/photo.jpeg",
+    "photo": "content/photo.jpeg",
     "bio": "SOFTWARE ENGINEER",
     "contacts": {
       "rss": "",
