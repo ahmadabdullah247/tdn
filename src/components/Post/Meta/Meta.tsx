@@ -14,7 +14,7 @@ const Meta: React.FC<Props> = ({ date }: Props) => (
         year: "numeric",
         month: "short",
         day: "numeric",
-      })}
+      })} by Ahmad.
     </p>
   </div>
 );
