@@ -6,6 +6,7 @@ exports[`Meta renders correctly 1`] = `
     Published
      
     Sep 1, 2016
+     by Ahmad.
   </p>
 </div>
 `;
